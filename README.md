@@ -8,4 +8,4 @@ I have previously worked as an undergraduate research assistant at the [Clinical
 
 Most of my analysis is done in **R**. To increase transparency and work towards Open Science, codes for recent analysis in projects I am working on are publicly shared here, together with anonymized data whenever possible.
 
-I'm currently studying linear algebra and will soon move to calculus, as prerequisites to a deeper understanding of probability theory. Bayesian modelling and the Python language will be learned later this year, hopefully. Will share code in the form of tutorials as I move forward in this journey. Feel free to contact me anytime: breno.marques@ufba.br
+Feel free to contact me anytime: breno.marques@ufba.br
