@@ -6,6 +6,6 @@ I'm a psychologist fascinated by human cognition and statistical modelling, espe
 
 I have previously worked as an undergraduate research assistant at the [Clinical and Cognitive Neuropsychology Lab](https://www.researchgate.net/lab/Neuroclic-UFBA-Neander-Abreu), taking part in data collection, neuropsychological testing, data analysis and manuscript writing in different projects, from school-aged children environmentally exposed to airborne manganese, to adults being treated with new protease inhibitors in chronic hepatitis C. Results from projects I've been a part of are available in my [Google Scholar profile](https://scholar.google.com/citations?user=WCNF2WYAAAAJ&hl=pt-BR).
 
-Most of my analysis is done in **R**. To increase transparency and work towards Open Science, codes for recent analysis in projects I am working on are publicly shared here, together with anonymized data whenever possible.
+Most of my analysis is done in **R**. To increase transparency and work towards Open Science, codes for recent analyses in projects I am working on will be publicly shared here, or at my [Open Science Framework](osf.io/56wza) profile, whenever possible.
 
 Feel free to contact me anytime: breno.marques@ufba.br
